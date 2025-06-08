@@ -35,10 +35,9 @@ project/
 ├── README.md
 ├── part1_forecasting.ipynb              # Main forecasting model
 ├── part2_simple_scraper.ipynb           # Simple web scraping script
-├── data/
-│   ├── sales_data.xlsx               # Historical sales data (required)
-│   └── inventory_data.xlsx           # Current inventory data (required)
-└── output/
+├
+│   ├── sales_data.xlsx               
+│   └── inventory_data.xlsx           
     ├── demand_forecast_and_orders.xlsx
     ├── nz_school_data.csv
     └── nz_school_data.xlsx
