@@ -33,8 +33,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels plotly shap
 ```
 project/
 ├── README.md
-├── part1_forecasting.py              # Main forecasting model
-├── part2_simple_scraper.py           # Simple web scraping script
+├── part1_forecasting.ipynb              # Main forecasting model
+├── part2_simple_scraper.ipynb           # Simple web scraping script
 ├── data/
 │   ├── sales_data.xlsx               # Historical sales data (required)
 │   └── inventory_data.xlsx           # Current inventory data (required)
@@ -49,7 +49,7 @@ project/
 ### 1. Clone/Download Project
 ```bash
 git clone [repository-url]
-cd school-uniform-forecasting
+cd DEMAND-FORECASTING-DATA-ENRICHMENT-ASSESSMENT
 ```
 
 
